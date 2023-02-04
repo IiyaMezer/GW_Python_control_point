@@ -1,0 +1,2 @@
+# GW_Python_control_point
+Прожуточная аттестация
